@@ -2,11 +2,11 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
-import cert_CSS from '../images/cert_CSS.jpg'
+import cert_CSS from '../images/cert_CSS.JPG'
 import cert_Electron from '../images/cert_Electron.jpg'
-import cert_HTML from '../images/cert_HTML.jpg'
-import cert_JS from '../images/cert_JS.jpg'
-import cert_React from '../images/cert_React.jpg'
+import cert_HTML from '../images/cert_HTML.JPG'
+import cert_JS from '../images/cert_JS.JPG'
+import cert_React from '../images/cert_React.JPG'
 
 class Main extends React.Component {
   render() {
